@@ -1,5 +1,5 @@
 ## APRESENTAÇÃO PESSOAL
-![desenvolvimento e logistica](https://github.com/LayaneBentes/Sobre-mim/assets/143037351/9b56484e-5ef4-403f-896c-0513e4f47370)
+![desenvolvimento e logistica](https://github.com/LayaneBentes/Sobre-mim/assets/143037351/42a4de45-9591-425d-a124-f111d222d0e6)
 
 ### Conheça mais sobre mim
 <table border="1">
@@ -8,7 +8,8 @@
     <td><img loading="lazy" src="https://github.com/LayaneBentes/Sobre-teste/assets/143037351/da881bb2-acf0-4ccd-a446-73b956bd5a41" width="10000" height="270"></td>
   </tr>
 </table>
-    
+
+
 
 ### EXPERIÊNCIA PROFISSIONAL E EDUCACIONAL
 
