@@ -1,19 +1,6 @@
 ## APRESENTAÇÃO PESSOAL
 ![desenvolvimento e logistica](https://github.com/LayaneBentes/Sobre-mim/assets/143037351/9b56484e-5ef4-403f-896c-0513e4f47370)
 
-#### CONTATO E REDES SOCIAIS
-<div align="left">
-    <a href="mailto:layanebbentes@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail" height></a>
-    <a href="https://www.linkedin.com/in/layane-bentes-259b77289" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://wa.link/fbclxv" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-    <a href="https://www.instagram.com/layane_bentes" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://github.com/LayaneBentes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="21" width="80" alt="GitHub"></a>
-</div>
-
-
 ### Conheça mais sobre mim
 <table border="1">
   <tr>
@@ -22,63 +9,52 @@
   </tr>
 </table>
     
+
 ### EXPERIÊNCIA PROFISSIONAL E EDUCACIONAL
 
-<p align="justify">Possuo uma sólida experiência profissional em assistência administrativa, logística e atendimento ao público. Atualmente, estou me graduando em Sistemas de Informação pela UFOPA, onde também sou bolsista PEEX do projeto Cunhantã++, com foco em desenvolvimento mobile.
-</p>
+<p align="justify">A universidade me proporcionou várias experiências, seja na participação em eventos acadêmicos e culturais, que enriqueceram minha jornada acadêmica e pessoal:
 
-### PROJETOS E TRABALHOS
+- IV Forum de ações afirmativas e assistência estudantil - participante.
+- Membro da Empresa CBSI Júnior (Empresa Júnior de Ciências Biologicas e Sistemas de Informação) - atuando na área de Recursos Humanos.
+- Organização de evento dentro da universidade.
+- Segunda exensão do projeto cunhantã 2023 - ministradora de minicurso 
+- Terceira extensão do projeto cunhantã 2023- ministradora de minicurso 
 
-- **Desenvolvimento de um aplicativo mobile voltado para a troca de informações e de compra e venda para comunidades quilombolas**
+Além das minhas experiências educacionais, possuo habilidades e experiências significativas em:
+|   |   |
+|---|---|
+|**Assistência Administrativa**| Incluindo organização de documentos, Lidar com comunicações internas e externas, realizar tarefas administrativas diversas, como preenchimento de formulários, elaboração de relatórios simples, preparação de apresentações e outras atividades Gerais, Gerenciamento de Suprimentos, Suporte a Equipe.|
+|**Logística**| Planejamento Logístico, Gestão de Estoques, Armazenamento e Distribuição, Colaboração com Fornecedores e Clientes|
+|**Atendimento ao público**|Realizar operações de venda, cobrança e pagamento, processando transações com precisão e segurança, e mantendo registros adequados, Lidar com consultas, reclamações e problemas dos clientes de forma eficiente e profissional, Colaborar com colegas de trabalho e outros departamentos para resolver problemas complexos ou atender às necessidades dos clientes de forma eficaz e eficiente.|
 
-    <p align="justify">Desenvolvimento de aplicativo mobile utilizando Flutter, com o intuito de proporcionar melhor acessibilidade ao acesso às informações da comunidade local e promover uma experiência de usuário mais inclusiva e eficiente.
-    </p>
-
-- **Automatização de envio de mesagens**
-
-    <p align="justify">Desenvolvimento de um bot personalizado em Python para automatizar o envio de mensagens através do WhatsApp, com intuito de agilizar o envio e otimizar a comunicação em larga escala.
-    </p>
-
-- **Desenvolvimento de uma aplicação desktop para ratreamento fluvial escolar** 
-
-    <p align="justify">um projeto em desenvolvimento com o objetivo de criar uma aplicação desktop em Java para rastreamento fluvial de alunos. Seus principais propósitos são garantir o embarque dos alunos, assegurar sua rota e paradas ao longo do percurso, é uma aplicação voltada para comunidades quilombolas.
-
-    Seu desenvolvimento inicial é mais uma aplicação de testes, destinada a ser aprimorada e expandida no futuro.
-    </p>
-
-- **Desenvolvimento de um sistema para gerenciamento de encomendas**
-
-    <p align="justify">O sistema desenvolvido em python que visa otimizar tanto o recebimento quanto o despacho de encomendas, proporcionando uma solução eficaz e de fácil utilização para monitorar e gerenciar todo o fluxo logístico.
-
-    Este sistema foi inicialmente desenvolvido como uma versão de testes, porém, sua concepção revela um potencial significativo para otimizar processos logísticos de recebimento e despacho de encomendas.
-    </p>
-
-### HABILIDADES E COMPETÊNCIAS
-
-- Proativa
-- Comunicação Efetiva
-- Trabalho em equipe
-- Adaptabilidade
-- Autoconhecimento
-- Aprendizado Contínuo
-- Gestão de Tempo
-
-
-
-### AUTORA
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/143037351?s=400" width=115><br><sub>](https://github.com/LayaneBentes)  | Layane Karolayne |
-| ------------- | ------------- |
-| Oriximiná-PA| CEP 68270-000  |
-| Endereço | Lauro Sodré, 3384 |
+### CONHECIMENTOS ADQUIRIDOS
+| | |
+|---|---|
+| **Flutter** | Utilizado no desenvolvimento de um aplicativo, focado para comunidades quilombolas da região. Este aplicativo é uma plataforma para a publicação de notícias relevantes para essas comunidades, o aplicativo também oferece uma seção dedicada à compra e venda de produtos locais, promovendo o comércio dentro da comunidade.
+| **C++**|Com o intuito de aprimorar o aprendizado na área da robótica, se fez uso da linguagem de programação c++ no desenvolvimento de mini projetos, dedicados á exploração tanto da linguagem de programação quanto os princípios fundamentais da robótica
+|**Java**|<div style="text-align: justify">Utilizada no desenvolvimento de uma aplicação desktop voltada ao rastreamento fluvial escolar. A linguagem tem como objetivo primordial garantir o eficiente embarque dos alunos, bem como assegurar sua rota e paradas ao longo do percurso entre a escola e suas residências. Em parceria com o Arduino, a linguagem foi utilizada para implementar um sistema integrado que inclui a construção de um leitor de cartões, método usado para a identificação dos alunos no momento do embarque.</div>
+|**Python**|Desenvolvimento de um sistema de despacho de encomendas fluviais em python, seu objeivo visa otimizar tanto o recebimento quanto o despacho de encomendas, proporcionando uma solução eficaz e de fácil utilização para monitorar e gerenciar todo o fluxo logístico. Este sistema foi inicialmente desenvolvido como uma versão de testes, porém, sua concepção revela um potencial significativo para otimizar processos logísticos de recebimento e despacho de encomendas.|
 
 ### TÉCNICAS E TECNOLOGIAS
+
+|||
+|---|---|
+|**Estruturação de aplicativos móveis**|Arquitetura android|
+|**Sistema de Gerenciamento de Banco de Dados**|MySQL, MSAccess|
+|**Versionamento de Código**|Git|
+|**Métodos Ágeis**|Kanban|
+|**Processamento de imagens**|DroneDeploy, Metashape|
+
+#### CONTATO E REDES SOCIAIS
 <div align="left">
-  <a href="https://flutter.dev/" title="Flutter"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25" width="80" alt="Flutter" ></a>
-  <a href="https://dart.dev/" title="Dart"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25" width="80"alt="Dart"></a>
-  <a href="https://www.java.com/" title="Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" width="80"alt="Java"></a>
-  <a href="https://developer.android.com/" title="Android"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25" width="80" alt="Android"></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" width="80" alt="Python" ></a>
-  <a href="https://www.cplusplus.com/" title="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" width="80" alt="C++"></a>
+    <a href="mailto:layanebbentes@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/layane-bentes-259b77289" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://wa.link/fbclxv" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+    <a href="https://www.instagram.com/layane_bentes" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://github.com/LayaneBentes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="21" width="80" alt="GitHub"></a>
 </div>
 
 
