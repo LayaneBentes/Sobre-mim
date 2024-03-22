@@ -15,7 +15,12 @@
 
 
 ### Conheça mais sobre mim
-Me chamo Layane Karolayne, sou natural de Oriximiná, localizada no Estado do Pará, e tenho 21 anos.  Atualmente, estou cursando Bacharelado em Sistemas de Informação na Universidade Federal do Oeste do Pará - UFOPA, uma área que sempre almejei e tive grande interesse. Sou membro do Projeto "Cunhantã++ Meninas na Ciência", cujo objetivo é incentivar e apoiar a participação das mulheres nas áreas de exatas e levar conhecimento tecnológico para comunidades quilombolas no município de Oriximiná, compartilhando o que desenvolvemos dentro da universidade, também faço parte da Empresa Júnior CBSI - Empresa júnior de Ciências Biológicas e Sistemas de Informação, atuando na área de Recursos Humanos. Estou sempre buscando desafios que me permitam desenvolver minhas habilidades. Acredito firmemente na importância de sair da zona de conforto para alcançar o verdadeiro potencial. Vejo-me como um exploradora da vida, sempre pronta para abraçar novas experiências e aprender com elas. Acredito na importância de manter a mente aberta e estar disposta a adaptar minhas perspectivas conforme o mundo evolui ao meu redor.
+<table border="1">
+  <tr>
+    <td>Me chamo Layane Karolayne, sou natural de Oriximiná, localizada no Estado do Pará, e tenho 21 anos.  Atualmente, estou cursando Bacharelado em Sistemas de Informação na Universidade Federal do Oeste do Pará - UFOPA, uma área que sempre almejei e tive grande interesse. Sou membro do Projeto "Cunhantã++ Meninas na Ciência", cujo objetivo é incentivar e apoiar a participação das mulheres nas áreas de exatas e levar conhecimento tecnológico para comunidades quilombolas no município de Oriximiná, compartilhando o que desenvolvemos dentro da universidade, também faço parte da Empresa Júnior CBSI - Empresa júnior de Ciências Biológicas e Sistemas de Informação, atuando na área de Recursos Humanos. Estou sempre buscando desafios que me permitam desenvolver minhas habilidades. Acredito firmemente na importância de sair da zona de conforto para alcançar o verdadeiro potencial. Vejo-me como um exploradora da vida, sempre pronta para abraçar novas experiências e aprender com elas. Acredito na importância de manter a mente aberta e estar disposta a adaptar minhas perspectivas conforme o mundo evolui ao meu redor.</td>
+    <td><img loading="lazy" src="https://github.com/LayaneBentes/Sobre-teste/assets/143037351/da881bb2-acf0-4ccd-a446-73b956bd5a41" width="10000" height="270"></td>
+  </tr>
+</table>
     
 ### EXPERIÊNCIA PROFISSIONAL E EDUCACIONAL
 
